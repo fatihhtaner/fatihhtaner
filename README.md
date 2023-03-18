@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Fatih</h1>
+<h1 align="center">Hi 👋, I'm Fatih Taner</h1>
 <h3 align="center">React Native Developer from Turkey</h3>
 
 - 🌱 I’m currently learning **React, React Native**
 
+- 📫 How to reach me **ibrahimfatihtaner@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fatih-taner/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fatih-taner/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
