@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih Taner</h1>
-<h3 align="center">React Native Developer from Turkey</h3>
+<h3 align="center">React Native Developer</h3>
 
 - 🌱 I’m currently learning **React, React Native**
 
