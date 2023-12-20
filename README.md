@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatih Taner</h1>
+<h1 align="center">Hi ,I'm Fatih Taner</h1>
 <h3 align="center">Software Developer</h3>
 
 - I’m currently learning **React, React Native**
