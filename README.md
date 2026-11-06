@@ -7,10 +7,9 @@
   <a href="mailto:ibrahimfatihtaner@gmail.com">Email</a>
 </p>
 
-I design, build and release my own products, from the first idea to the App Store. Previously, I worked on web and mobile projects with React, React Native, TypeScript and Node.js.
+I design, build and release my own products, from the first idea to the App Store. I'm experienced in React, React Native, TypeScript and Node.js across web and mobile.
 
-- 🎮 Currently building **Pit-Slop**, an online co-op game for Steam, with Unity and C# in a two-person team
-- 🌍 Based in Turkey and open to remote work
+🌍 Based in Turkey and open to remote work
 
 ## Shipped
 
