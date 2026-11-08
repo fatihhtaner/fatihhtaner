@@ -25,20 +25,62 @@ I design, build and release my own products, from the first idea to the App Stor
 
 **Web**
 
-<img src="assets/skills/web.svg" alt="JavaScript, TypeScript, React, Next.js, Vue, Svelte, Three.js, HTML, CSS, Tailwind CSS, Sass, Bootstrap, Redux, Vite" />
+<p>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="assets/skills/js.svg" alt="JavaScript" title="JavaScript" width="48" /></a>
+  <a href="https://www.typescriptlang.org"><img src="assets/skills/ts.svg" alt="TypeScript" title="TypeScript" width="48" /></a>
+  <a href="https://react.dev"><img src="assets/skills/react.svg" alt="React" title="React" width="48" /></a>
+  <a href="https://nextjs.org"><img src="assets/skills/nextjs.svg" alt="Next.js" title="Next.js" width="48" /></a>
+  <a href="https://vuejs.org"><img src="assets/skills/vue.svg" alt="Vue" title="Vue" width="48" /></a>
+  <a href="https://svelte.dev"><img src="assets/skills/svelte.svg" alt="Svelte" title="Svelte" width="48" /></a>
+  <a href="https://threejs.org"><img src="assets/skills/threejs.svg" alt="Three.js" title="Three.js" width="48" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="assets/skills/html.svg" alt="HTML" title="HTML" width="48" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="assets/skills/css.svg" alt="CSS" title="CSS" width="48" /></a>
+  <a href="https://tailwindcss.com"><img src="assets/skills/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" width="48" /></a>
+  <a href="https://sass-lang.com"><img src="assets/skills/sass.svg" alt="Sass" title="Sass" width="48" /></a>
+  <a href="https://getbootstrap.com"><img src="assets/skills/bootstrap.svg" alt="Bootstrap" title="Bootstrap" width="48" /></a>
+  <a href="https://redux.js.org"><img src="assets/skills/redux.svg" alt="Redux" title="Redux" width="48" /></a>
+  <a href="https://vite.dev"><img src="assets/skills/vite.svg" alt="Vite" title="Vite" width="48" /></a>
+</p>
 
 **Mobile**
 
-<img src="assets/skills/mobile.svg" alt="Swift, React Native, Firebase" />
+<p>
+  <a href="https://developer.apple.com/swift"><img src="assets/skills/swift.svg" alt="Swift" title="Swift" width="48" /></a>
+  <a href="https://reactnative.dev"><img src="assets/skills/react.svg" alt="React Native" title="React Native" width="48" /></a>
+  <a href="https://firebase.google.com"><img src="assets/skills/firebase.svg" alt="Firebase" title="Firebase" width="48" /></a>
+</p>
 
 **Games and 3D**
 
-<img src="assets/skills/games.svg" alt="Godot, Unity, C#, Three.js" />
+<p>
+  <a href="https://godotengine.org"><img src="assets/skills/godot.svg" alt="Godot" title="Godot" width="48" /></a>
+  <a href="https://unity.com"><img src="assets/skills/unity.svg" alt="Unity" title="Unity" width="48" /></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp"><img src="assets/skills/cs.svg" alt="C#" title="C#" width="48" /></a>
+  <a href="https://threejs.org"><img src="assets/skills/threejs.svg" alt="Three.js" title="Three.js" width="48" /></a>
+</p>
 
 **Backend and data**
 
-<img src="assets/skills/backend.svg" alt="Node.js, Express, NestJS, Spring Boot, Java, PostgreSQL, Firebase, Cloudflare, Docker, Python" />
+<p>
+  <a href="https://nodejs.org"><img src="assets/skills/nodejs.svg" alt="Node.js" title="Node.js" width="48" /></a>
+  <a href="https://expressjs.com"><img src="assets/skills/express.svg" alt="Express" title="Express" width="48" /></a>
+  <a href="https://nestjs.com"><img src="assets/skills/nestjs.svg" alt="NestJS" title="NestJS" width="48" /></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="assets/skills/spring.svg" alt="Spring Boot" title="Spring Boot" width="48" /></a>
+  <a href="https://dev.java"><img src="assets/skills/java.svg" alt="Java" title="Java" width="48" /></a>
+  <a href="https://www.postgresql.org"><img src="assets/skills/postgres.svg" alt="PostgreSQL" title="PostgreSQL" width="48" /></a>
+  <a href="https://firebase.google.com"><img src="assets/skills/firebase.svg" alt="Firebase" title="Firebase" width="48" /></a>
+  <a href="https://workers.cloudflare.com"><img src="assets/skills/cloudflare.svg" alt="Cloudflare Workers" title="Cloudflare Workers" width="48" /></a>
+  <a href="https://www.docker.com"><img src="assets/skills/docker.svg" alt="Docker" title="Docker" width="48" /></a>
+  <a href="https://www.python.org"><img src="assets/skills/python.svg" alt="Python" title="Python" width="48" /></a>
+</p>
 
 **Tools and testing**
 
-<img src="assets/skills/tools.svg" alt="Git, GitHub, GitHub Actions, Jest, Selenium, Postman" />
+<p>
+  <a href="https://git-scm.com"><img src="assets/skills/git.svg" alt="Git" title="Git" width="48" /></a>
+  <a href="https://github.com"><img src="assets/skills/github.svg" alt="GitHub" title="GitHub" width="48" /></a>
+  <a href="https://github.com/features/actions"><img src="assets/skills/githubactions.svg" alt="GitHub Actions" title="GitHub Actions" width="48" /></a>
+  <a href="https://jestjs.io"><img src="assets/skills/jest.svg" alt="Jest" title="Jest" width="48" /></a>
+  <a href="https://www.selenium.dev"><img src="assets/skills/selenium.svg" alt="Selenium" title="Selenium" width="48" /></a>
+  <a href="https://www.postman.com"><img src="assets/skills/postman.svg" alt="Postman" title="Postman" width="48" /></a>
+</p>
